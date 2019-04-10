@@ -24,8 +24,8 @@ class App extends Component {
   render() {
     return (
       <div className="container app">
-        <h1>Emolang</h1>
-        <h4>An Emoji-based artificial language for the Internet (and the real world).</h4>
+        <h1>Emolang😂</h1>
+        <h4>An Emoji-based artificial language built for the Internet (and the real world).</h4>
         <div className="input-panel">
           <input type="text" value={this.state.raw} placeHolder="Try: Ya lubo kot" onChange={this.handleChange} className="form-control raw"/>
         </div>
