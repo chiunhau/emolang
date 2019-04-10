@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.faa9ad91.chunk.css",
-  "main.js": "/static/js/main.59df0ea0.chunk.js",
-  "main.js.map": "/static/js/main.59df0ea0.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.c5541365.js",
-  "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
-  "static/js/2.91f9638c.chunk.js": "/static/js/2.91f9638c.chunk.js",
-  "static/js/2.91f9638c.chunk.js.map": "/static/js/2.91f9638c.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.02db655a55cee2cfcedca6c1344e775b.js": "/precache-manifest.02db655a55cee2cfcedca6c1344e775b.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.faa9ad91.chunk.css.map": "/static/css/main.faa9ad91.chunk.css.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  "main.css": "/emolang/static/css/main.faa9ad91.chunk.css",
+  "main.js": "/emolang/static/js/main.5f07d052.chunk.js",
+  "main.js.map": "/emolang/static/js/main.5f07d052.chunk.js.map",
+  "runtime~main.js": "/emolang/static/js/runtime~main.786738dd.js",
+  "runtime~main.js.map": "/emolang/static/js/runtime~main.786738dd.js.map",
+  "static/js/2.91f9638c.chunk.js": "/emolang/static/js/2.91f9638c.chunk.js",
+  "static/js/2.91f9638c.chunk.js.map": "/emolang/static/js/2.91f9638c.chunk.js.map",
+  "index.html": "/emolang/index.html",
+  "precache-manifest.9459f166f41b4bda7a51937a6297e52f.js": "/emolang/precache-manifest.9459f166f41b4bda7a51937a6297e52f.js",
+  "service-worker.js": "/emolang/service-worker.js",
+  "static/css/main.faa9ad91.chunk.css.map": "/emolang/static/css/main.faa9ad91.chunk.css.map",
+  "static/media/logo.svg": "/emolang/static/media/logo.5d5d9eef.svg"
 }
