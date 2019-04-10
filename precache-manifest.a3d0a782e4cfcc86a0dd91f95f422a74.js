@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/emolang/static/js/runtime~main.786738dd.js"
   },
   {
-    "revision": "d8fbb3364a80062996fc",
-    "url": "/emolang/static/js/main.5f07d052.chunk.js"
+    "revision": "fba6b33ebd3cc4e68594",
+    "url": "/emolang/static/js/main.60c5d380.chunk.js"
   },
   {
     "revision": "2f5f4255dcce157b4e92",
     "url": "/emolang/static/js/2.91f9638c.chunk.js"
   },
   {
-    "revision": "d8fbb3364a80062996fc",
+    "revision": "fba6b33ebd3cc4e68594",
     "url": "/emolang/static/css/main.ce3f71b0.chunk.css"
   },
   {
-    "revision": "161658e0fe2e4349e70bc95a2a471829",
+    "revision": "a277b24c66f33f7be456b2f94bec859a",
     "url": "/emolang/index.html"
   }
 ];

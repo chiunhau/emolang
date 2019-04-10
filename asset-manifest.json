@@ -1,13 +1,13 @@
 {
   "main.css": "/emolang/static/css/main.ce3f71b0.chunk.css",
-  "main.js": "/emolang/static/js/main.5f07d052.chunk.js",
-  "main.js.map": "/emolang/static/js/main.5f07d052.chunk.js.map",
+  "main.js": "/emolang/static/js/main.60c5d380.chunk.js",
+  "main.js.map": "/emolang/static/js/main.60c5d380.chunk.js.map",
   "runtime~main.js": "/emolang/static/js/runtime~main.786738dd.js",
   "runtime~main.js.map": "/emolang/static/js/runtime~main.786738dd.js.map",
   "static/js/2.91f9638c.chunk.js": "/emolang/static/js/2.91f9638c.chunk.js",
   "static/js/2.91f9638c.chunk.js.map": "/emolang/static/js/2.91f9638c.chunk.js.map",
   "index.html": "/emolang/index.html",
-  "precache-manifest.00f411bc16e012e82ee25aba57821a50.js": "/emolang/precache-manifest.00f411bc16e012e82ee25aba57821a50.js",
+  "precache-manifest.a3d0a782e4cfcc86a0dd91f95f422a74.js": "/emolang/precache-manifest.a3d0a782e4cfcc86a0dd91f95f422a74.js",
   "service-worker.js": "/emolang/service-worker.js",
   "static/css/main.ce3f71b0.chunk.css.map": "/emolang/static/css/main.ce3f71b0.chunk.css.map",
   "static/media/logo.svg": "/emolang/static/media/logo.5d5d9eef.svg"
